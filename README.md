@@ -21,4 +21,5 @@ Each query is crafted to ensure accurate data retrieval and analysis.
 
 # Conclusion
 This project highlights the importance of data analysis in the ride-hailing industry, showcasing how SQL can be leveraged to derive actionable insights that can improve operations and enhance customer experiences.
+
  
